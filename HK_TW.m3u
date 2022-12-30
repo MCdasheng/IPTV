@@ -30,14 +30,49 @@
 東森超視,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 東森超視,http://50.7.220.74:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-東森購物1,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=853
-東森購物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-東森購物2,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=851
-東森購物3,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=852
-東森購物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-東森購物5,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=854
 東森戲劇 HD,http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 東森戲劇 HD,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
 東森戲劇 HD,http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 東森綜合 HD,http://220.134.196.147:9553/index.m3u8
 東森綜合 HD,http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+中天綜合 HD,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+中天綜合 HD,http://23.237.10.66:16372
+中天綜合 HD,http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+豬哥亮歌廳秀,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=835
+豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+豬哥亮歌廳秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/.m3u8
+AXN,http://198.16.64.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
+cnex,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+EF運通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+EYETV戲劇,http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+EYETV戲劇台,http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
+JET綜合,http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
+K+ MUSIC,http://45.126.83.51/uq2663/h/h08/02.m3u8
+Kep1er,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=847
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+The K-POP,https://git.io/JgYAE
+The K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+THE K-POP,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=846
+THE K-POP,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=570
+The K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+TraceSports,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+TVBS HD,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv073
+TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+TVBS HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6
+TVBS HD,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+TVBS歡樂台 HD,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+TVBS歡樂台 HD,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+TVBS歡樂台 HD,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+無綫新聞,http://2022.stream-link.org/playlist/tvb_news
+無綫財經,http://2022.stream-link.org/playlist/tvb_finance
+有線新聞,http://2022.stream-link.org/playlist/cable_news
+有線財經,http://2022.stream-link.org/playlist/cable_finance
+TVB無線新聞,http://9.zhxinda.xyz/newss.php?id=1
+TVB無線財經,http://9.zhxinda.xyz/newss.php?id=2
+香港有線新聞,http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8
+香港有線財經,http://61.10.2.140:80/live_freedirect/freehd208_h.live/chunklist_w293990864.m3u8
+翡翠台,https://2022.stream-link.org/playlist/tvb_jade
+華麗(翡翠)台,https://2022.stream-link.org/playlist/astro_jade
